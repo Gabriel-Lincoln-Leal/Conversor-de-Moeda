@@ -95,7 +95,7 @@ public class Main {
                 Double taxa = rates.get(moedaPara);
 
                 System.out.println("Valor convertido de " + moedaDe + " para " + moedaPara + " é " + valor * taxa);
-
+                break;
             }
         } catch (Exception e) {
             System.out.println("Digite apenas números.");
