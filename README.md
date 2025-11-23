@@ -5,6 +5,6 @@ Esse projeto foi proposto pelo programa Oracle Next Education na formação **Ja
 
 ## Tecnologias utilizadas:
 - Java 21
-- Itellej Community
+- Intellij Community
 - ExchangeRate-API
 - Gson 2.13.2
